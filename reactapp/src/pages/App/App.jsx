@@ -23,6 +23,10 @@ export default function App() {
     setStudentName('')
   }
 
+  function handleKeyDown(e) {
+    if (e.key === 'Enter') handleAddStudent()
+  }
+
   useEffect(() => {
     async function fetchData() {
       const response = await fetch('https://api.github.com/users/queirozz8')
@@ -51,6 +55,7 @@ export default function App() {
         type="text" 
         placeholder="Digite o nome..."
         onChange={ e => setStudentName(e.target.value) }
+        onKeyDown={handleKeyDown}
         value={studentName}
         id='input'
       />
