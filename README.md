@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/3f5d9456-dbfb-43ae-bea2-6a59cf0840dc)
 
-🔗 Site: https://lista-presenca-rick.vercel.app
+🔗 Site: https://attendance-rick.vercel.app
 
 <h1>ENGLISH VERSION</h1>
 ⚛ This is a simple project made with React, it was my first time developing something with it, so it's pretty simple. Just for learning.
