@@ -20,7 +20,7 @@ cd attendance-list-react/
 ```
 npm install -g pnpm@latest-10
 ```
-3.2. Run this command to install all the dependencies (React, Vite, TypeScript, etc.):
+3.2. Run this command to install all the dependencies (React, Vite, etc.):
 ```
 pnpm install
 ```
@@ -59,7 +59,7 @@ cd attendance-list-react/
 ```
 npm install -g pnpm@latest-10
 ```
-3.2. Rode esse comando para instalar todas as dependências (React, Vite, TypeScript, etc.):
+3.2. Rode esse comando para instalar todas as dependências (React, Vite, etc.):
 ```
 pnpm install
 ```
