@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 
 import './styles.css'
 
-import Card from '../../components/Card/Card';
+import Card from '../components/Card/Card';
 export default function App() {
   const [studentName, setStudentName] = useState('')
   const [students, setStudents] = useState([])
