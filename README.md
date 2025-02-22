@@ -16,9 +16,13 @@ git clone https://github.com/queirozz8/attendance-list-react.git
 ```
 cd attendance-list-react/
 ```
-3. Run this command to install all the dependencies (React, Vite, etc.):
+3.1. If you don't have pnpm installed, install it:
 ```
-npm install
+npm install -g pnpm@latest-10
+```
+3.2. Run this command to install all the dependencies (React, Vite, TypeScript, etc.):
+```
+pnpm install
 ```
 4. Run the `build` script:
 ```
@@ -51,9 +55,13 @@ git clone https://github.com/queirozz8/attendance-list-react.git
 ```
 cd attendance-list-react/
 ```
-3. Rode esse comando para instalar todas as dependências (React, Vite, etc.):
+3.1. Se você não tem o pnpm instalado, instale-o:
 ```
-npm install
+npm install -g pnpm@latest-10
+```
+3.2. Rode esse comando para instalar todas as dependências (React, Vite, TypeScript, etc.):
+```
+pnpm install
 ```
 4. Rode o script `build`:
 ```
